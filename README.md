@@ -9,7 +9,6 @@ PodWiz is an AI-driven podcast platform that enables users to create, discover, 
 - **Clerk**
 - **ShadCN**
 - **Tailwind CSS**
-- **OpenAI**
 
 ##  💡Features
 
